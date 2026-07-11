@@ -10,8 +10,8 @@ This project uses a custom-trained object detection model to distinguish between
   <img src="vision_retail_shop_analytics_screenshot.png" alt="Retail Store Visitor Analytics Dashboard" width="100%">
 </p>
 
-<p align="center">
-<b>Real-time customer and shopkeeper tracking with persistent IDs, dwell-time analytics, live occupancy, and unique visitor counting.</b>
+<p align="left">
+<i>Real-time customer and shopkeeper tracking with persistent IDs, dwell-time analytics, live occupancy, and unique visitor counting.</i>
 </p>
 
 **What you are seeing in the tracking output:**
