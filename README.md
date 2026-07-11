@@ -6,6 +6,14 @@ This project uses a custom-trained object detection model to distinguish between
 
 ## **📸 Live Dashboard Preview**
 
+<p align="center">
+  <img src="vision_retail_shop_analytics_screenshot.png" alt="Retail Store Visitor Analytics Dashboard" width="100%">
+</p>
+
+<p align="center">
+<b>Real-time customer and shopkeeper tracking with persistent IDs, dwell-time analytics, live occupancy, and unique visitor counting.</b>
+</p>
+
 **What you are seeing in the tracking output:**
 
 * **🔴 Red Bounding Boxes:** Securely tracked **Staff/Shopkeepers** (e.g., Staff 1, Staff 2\) equipped with an extended memory buffer so they aren't lost when bending behind counters.  
@@ -31,7 +39,7 @@ This project uses a custom-trained object detection model to distinguish between
 ## **🚀 Installation**
 
 1. Clone this repository:  
-   git clone \[https://github.com/yourusername/retail-analytics-tracking.git\](https://github.com/yourusername/retail-analytics-tracking.git)  
+   git clone \[https://github.com/nikhillpaul9/vision-retail-analytics-using-yolo26.git]  
    cd retail-analytics-tracking
 
 2. Install the required Python dependencies:  
@@ -91,7 +99,3 @@ MIN\_STAFF\_STAY \= 20.0 \# Ignore staff who exist for less than 20 seconds
 ## **🤝 Contributing**
 
 Contributions, issues, and feature requests are welcome\! Feel free to check the issues page.
-
-## **📝 License**
-
-This project is licensed under the MIT License.
