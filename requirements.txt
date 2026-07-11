@@ -1,0 +1,18 @@
+# --- Core Deep Learning & Computer Vision ---
+ultralytics>=8.4.4
+opencv-python>=4.8.0.76
+
+# --- Numeric Processing & Analytics Data Handling ---
+numpy>=1.24.0
+pandas>=2.0.0
+
+# --- Tracking Dependencies & Serialization utilities ---
+lapx>=0.5.5               # Required for high-performance ByteTrack/Linear Assignment
+scikit-learn>=1.2.0       # Required for advanced BoT-SORT coordinate mapping
+pyyaml>=6.0.1
+tqdm>=4.66.0
+
+# --- PyTorch Framework (Automatically managed if using CUDA/pip) ---
+# Note: Ensure torch matching your system's CUDA version is installed.
+torch>=2.0.0
+torchvision>=0.15.0

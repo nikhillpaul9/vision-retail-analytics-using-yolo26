@@ -1,0 +1,12 @@
+tracker_type: botsort
+track_high_thresh: 0.2     # Lowered to maintain tracking even with lower model confidence
+track_low_thresh: 0.05     # Keep track alive even if model is very unsure temporarily
+new_track_thresh: 0.3      # Threshold to initialize a brand new person
+track_buffer: 120          # MEMORY: Wait 120 frames before permanently deleting an ID
+match_thresh: 0.9          # Allow looser spatial matching for fast-moving people
+gmc_method: sparseOptFlow  # Helps compensate for minor camera vibrations
+
+# --- Required keys for latest Ultralytics versions to prevent AttributeError ---
+proximity_thresh: 0.5      
+appearance_thresh: 0.25    
+with_reid: false

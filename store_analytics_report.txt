@@ -1,0 +1,24 @@
+=========================================
+      RETAIL STORE VISITOR REPORT        
+      Generated on: 2026-07-11 12:16:46
+=========================================
+
+Total Unique Customers Counted: 10
+Total Distinct Shopkeepers Identified: 4
+Average Customer Dwell Time: 69.87 seconds
+Maximum Single Customer Stay: 110.82 seconds
+*(Filtered out noisy tracks under 5.0s)*
+
+--- Detailed Breakdowns ---
+ -> Customer ID 1: Stayed for 110.8 seconds
+ -> Customer ID 2: Stayed for 110.8 seconds
+ -> Customer ID 3: Stayed for 97.8 seconds
+ -> Customer ID 4: Stayed for 19.9 seconds
+ -> Customer ID 5: Stayed for 97.8 seconds
+ -> Customer ID 6: Stayed for 91.7 seconds
+ -> Customer ID 8: Stayed for 78.9 seconds
+ -> Customer ID 9: Stayed for 16.3 seconds
+ -> Customer ID 10: Stayed for 44.4 seconds
+ -> Customer ID 12: Stayed for 30.2 seconds
+
+=========================================

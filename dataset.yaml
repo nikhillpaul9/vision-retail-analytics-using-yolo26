@@ -1,0 +1,7 @@
+path: ./my_shop_dataset 
+train: train/images
+val: val/images
+
+names:
+  0: shopkeeper
+  1: customer
